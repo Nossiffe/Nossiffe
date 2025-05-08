@@ -15,6 +15,7 @@ Based in Geneva, but open to opportunities globally.
 - Building and managing **scalable software architectures** (Microservices, DDD, CQRS).
 - Setting up **CI/CD pipelines** for automated deployments.
 - **Mentoring** and leading technical teams.
+- **Driving continuous improvements** in software processes and quality
 
 ---
 
@@ -22,7 +23,7 @@ Based in Geneva, but open to opportunities globally.
 
 ### Development:
 - **Languages**: C#, TypeScript, JavaScript
-- **Frameworks**: **.NET Core**, **Angular**
+- **Frameworks**: **.NET 8**, **Angular 19**
 
 ### Cloud & DevOps:
 - **Azure**: Cosmos DB, Service Bus, App Services, SQL Server, Keyvault, Application insights
