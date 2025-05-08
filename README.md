@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Pierre-Eric Tessa!
 
-<!--
-**Nossiffe/Nossiffe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Senior Fullstack Developer** with over 8 years of experience in designing and building robust and high-performing solutions. I'm passionate about **software architecture**, **DevOps**, and **cloud resource optimization**.
 
-Here are some ideas to get you started:
+🔧 I mainly work with modern tech stacks like **.NET**, **Angular**, **Azure**, and **Microservices**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Based in Geneva, but open to opportunities globally.
+
+---
+
+## 🌟 What I Do:
+
+- **Fullstack development** with **.NET** and **Angular**.
+- **Cloud cost optimization** on **Azure**.
+- Building and managing **scalable software architectures** (Microservices, DDD, CQRS).
+- Setting up **CI/CD pipelines** for automated deployments.
+- **Mentoring** and leading technical teams.
+
+---
+
+## 🛠️ Technologies & Skills
+
+### Development:
+- **Languages**: C#, TypeScript, JavaScript
+- **Frameworks**: **.NET Core**, **Angular**
+
+### Cloud & DevOps:
+- **Azure**: Cosmos DB, Service Bus, App Services, SQL Server, Keyvault, Application insights
+- **CI/CD**: Azure DevOps, GitHub Actions
+- **Containers**: Docker
+
+### Software Architecture:
+- **Microservices**
+- **Domain-Driven Design (DDD)**
+- **CQRS**
+
+### Tools:
+- **Git**, **GitHub**
+- **Visual Studio Code**, **Rider**, **WebStorm**
+- **Jira**, **Azure devops**
+
+---
+
+## 📬 Contact
+
+- [**LinkedIn**](https://www.linkedin.com/in/pierre-eric-tessa-15a46312b/) - Connect with me on LinkedIn!
+- **Email**: pierretessa@live.fr
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT** License. See the [LICENSE](./LICENSE) file for more details.
