@@ -1,124 +1,75 @@
-# 👋 Hello, je suis Pierre-Eric Tessa
+# Pierre-Eric Tessa — Tech Lead .NET / Angular / Azure
 
-**Tech Lead / Architecte .NET · Angular · Azure – basé à Genève (Carouge)**  
-8+ ans d’expérience sur des plateformes web critiques, avec un focus sur :
-
-- modernisation de stacks **.NET / Angular / Azure**
-- réduction des coûts (jusqu’à **-80 % sur Azure**)
-- montée en puissance des équipes (mentoring, standards, revues de code)
+**Basé à Genève (Carouge) · En recherche active d'un CDI · Remote partiel**
 
 ---
 
-## 🎯 Ce que je cherche
-
-Je suis ouvert à un **CDI de Tech Lead / Architecte .NET / Angular / Azure**,  
-dans une équipe produit ou plateforme qui veut vraiment :
-
-- stabiliser une stack qui commence à faire peur en prod 😅  
-- moderniser .NET / Angular sans tout casser  
-- structurer l’architecture (DDD, CQRS, microservices quand ça a du sens)  
-- faire monter l’équipe en compétence sur le long terme  
+Je reprends des plateformes .NET / Angular qui coûtent trop cher, migrent trop lentement, ou que plus personne n'ose toucher. Je les remets d'aplomb — architecture, performance, équipe — sans tout casser en production.
 
 ---
 
-## 🧠 Ma façon de travailler
+## Ce que j'ai livré récemment
 
-### 1. Stabiliser & sécuriser
+**ASSUREA · Paris (2022–2024) — Plateforme assurance en forte croissance**
 
-- identifier les points chauds : performance, incidents, dette, coûts Azure  
-- mettre en place des **quick wins** pour que la prod redevienne vivable  
-- fiabiliser le **CI/CD** (déployer sans avoir peur du bouton)
+Arrivé à 2 dans le chaos, changement de CTO en cours de route. Reparti avec 2 équipes autonomes.
 
-### 2. Moderniser sans tout casser
+| Avant | Après |
+|---|---|
+| Pages à **20 secondes** de chargement | **200 ms** — même données, même infra |
+| Qualité code **Sonar E** (niveau critique) | **Sonar A** |
+| Facture Azure incontrôlée | **−80% en 2 mois** — même business, mêmes features |
+| Secrets en clair dans le code | Key Vaults Azure en place |
+| 2 personnes | 2 équipes de 4 devs + 1 PO chacune |
 
-- migrations **.NET Framework → .NET 8/9** (projets SDK, compat, tests)  
-- migrations **Angular 8/14 → 19**, maîtrise des breaking changes  
-- introduction progressive de **DDD / CQRS / microservices** là où ça apporte une vraie valeur
+Zéro incident majeur en production sur toute la durée.
 
-### 3. Tirer l’équipe vers le haut
+**SQLI · Genève (2024–2025) — Modernisation plateforme internationale**
 
-- mentoring (4+ devs coachés sur mon dernier poste)  
-- standards de code, revues structurées, culture du feedback  
-- alignement avec le métier : langage commun, priorisation réaliste
-
----
-
-## ⚙️ Stack & sujets favoris
-
-**Backend**
-
-- C#, .NET Framework → .NET 8/9  
-- Web APIs, services, architectures modulaire / DDD / CQRS  
-- SQL Server, Azure Cosmos DB, Azure Service Bus
-
-**Frontend**
-
-- Angular (4 → 19), RxJS, TypeScript  
-- PrimeNG & écosystème Angular
-
-**Cloud & DevOps**
-
-- Azure (App Services, Storage, Service Bus, Cosmos DB, Functions…)  
-- Optimisation des coûts (jusqu’à **-80 % sur Azure** sur une plateforme en production)  
-- CI/CD (Azure DevOps, GitLab CI), stratégies de branches, qualité logicielle
+Migration Angular 14 → 19, Electron 24 → 36, préparation .NET 8/9 — sur une application critique, sans interruption de service.
 
 ---
 
-## 📌 Quelques impacts concrets
+## Ce que je fais
 
-- **-80 % de coûts Azure** sur une plateforme assurance en forte croissance  
-- migrations critiques :
-  - Angular **4 → 14**, puis **8 → 15** et **14 → 19**
-  - Electron **24 → 36**
-  - projets C# vers **SDK-style** pour préparer .NET 8/9  
-- mentoring de **4 développeurs** (montée en compétence, réduction des bugs “bêtes”)  
-- amélioration sensible des temps de réponse et de la stabilité sur des applis métiers critiques
+```
+Stabiliser    →   Revue perf, dette, coûts · CI/CD fiable · Observabilité
+Moderniser    →   .NET Framework → 8/9 · Angular 8 → 19 · DDD / CQRS
+Faire grandir →   Recrutement · Mentoring · Standards · Roadmap technique
+```
 
 ---
 
-## 💼 Parcours récent (résumé)
+## Stack
 
-- **Senior Developer – SQLI (Genève)**  
-  Modernisation d’une application internationale :  
-  migration **Angular 14 → 19**, **Electron 24 → 36**, préparation de la migration vers .NET 8/9.
+**Backend** · C# · .NET Framework → .NET 9 · Web API · DDD · CQRS · Microservices · SQL Server · Azure Cosmos DB · Service Bus
 
-- **Staff Engineer / Senior Full Stack – ASSUREA (Paris)**  
-  Plateforme d’assurance en pleine croissance :  
-  **Angular 8 → 15**, architecture **DDD / CQRS / microservices**,  
-  revue de l’usage d’Azure → **-80 % de coûts**, mentoring de l’équipe.
+**Frontend** · Angular 4 → 19 · TypeScript · RxJS · PrimeNG
 
-- **Software Developer – Kinougarde & Complétude (Lyon)**  
-  Modernisation front & outils métier :  
-  migrations **Angular 4 → 14** & PrimeNG, harmonisation UI/UX, travail en équipe agile.
+**Cloud & DevOps** · Azure (App Services, Functions, Storage, Key Vault…) · Azure DevOps · GitLab CI · SonarQube
 
 ---
 
-## 🗣️ Ce que disent mes managers & collègues
+## Ce que disent ceux qui ont travaillé avec moi
 
-> *« Développeur passionné, grande culture IT, très bon niveau en C#/SQL Server et Angular/TypeScript.  
->  Ses qualités techniques et son engagement permettent une très bonne délivrabilité. »*  
-> **— Head of Software Engineering, ex-manager**
+> *"Passionné, grande culture IT, très bon niveau en C# et Angular. Ses qualités techniques et son engagement permettent une très bonne délivrabilité."*
+> — Antoine Jéhanno, Head of Software Engineering
 
-> *« Impressionne par son côté couteau suisse et sa vitesse d’exécution.  
->  Vigilant sur la sécurité, les performances et capable d’accompagner les équipes en tant que Staff Engineer. »*  
-> **— Ingénieur, collègue**
+> *"Couteau suisse, vitesse d'exécution, solutions élégantes. Vigilant sur la sécurité et les performances, capable d'accompagner les équipes en tant que Staff Engineer."*
+> — Nabil A., Ingénieur
 
-> *« Très bon développeur, passionné, sérieux, autonome.  
->  A réussi à réduire fortement la facture Cloud du client durant sa mission.  
->  Je le recommande pour un poste de Tech Lead. »*  
-> **— Tech Lead Azure & .NET**
+> *"Passionné, sérieux, autonome. A réussi à réduire fortement la facture Cloud. Je le recommande pour un poste de Tech Lead."*
+> — Gilles Tourreau, Tech Lead Azure & .NET
 
 ---
 
-## 📬 Me contacter
+## Me contacter
 
-- 🌍 Site : [https://tessa-pierre-eric.fr](https://tessa-pierre-eric.fr)  
-- 💼 LinkedIn : [Pierre-Eric Tessa](https://www.linkedin.com/in/pierre-eric-tessa-15a46312b)  
-- 💻 GitHub : [@Nossiffe](https://github.com/Nossiffe)  
-- ✉️ E-mail : [pierretessa@live.fr](mailto:pierretessa@live.fr)  
-- 📍 Basé à Genève (Carouge) · Permis B · Suisse & France voisine  
+**Site** · [tessa-pierre-eric.fr](https://tessa-pierre-eric.fr)  
+**LinkedIn** · [pierre-eric-tessa-15a46312b](https://www.linkedin.com/in/pierre-eric-tessa-15a46312b)  
+**Email** · [pierretessa@live.fr](mailto:pierretessa@live.fr)  
+**Localisation** · Genève (Carouge) · Permis B · Suisse & France voisine
 
 ---
 
-> _“L’objectif, ce n’est pas juste de faire tourner la prod aujourd’hui,  
-> mais de laisser une stack saine, compréhensible et vivable pour l’équipe de demain.”_
+> *L'objectif, ce n'est pas juste de faire tourner la prod aujourd'hui — c'est de laisser une stack saine, compréhensible et vivable pour l'équipe de demain.*
