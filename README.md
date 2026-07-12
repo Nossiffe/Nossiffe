@@ -26,7 +26,7 @@ CRM SaaS pour agents immobiliers indépendants, **conçu et développé seul, de
 - **Infra** · Docker · OVHcloud (France) · conforme RGPD
 - **Features** · pipeline kanban, relances automatiques, notes vocales transcrites, home-staging IA, e-signature, données marché DVF, Stripe
 
-🔗 **[pipeimmo.fr](https://pipeimmo.fr)**
+🔗 **[pipeimmo.fr](https://tessa-pierre-eric.fr/pipeimmo.html)**
 
 ---
 
