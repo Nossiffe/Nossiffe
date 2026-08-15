@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90" role="img" aria-label="">
+  <defs>
+    <linearGradient id="bgf" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f1b2d"/>
+      <stop offset="1" stop-color="#1a4fd6"/>
+    </linearGradient>
+    <linearGradient id="wf" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".08"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity=".02"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#bgf)" d="M0,35 C220,5 420,60 640,30 C860,5 1040,55 1200,25 L1200,90 L0,90 Z"/>
+  <path fill="url(#wf)" d="M0,55 C260,30 480,75 720,50 C940,30 1080,70 1200,50 L1200,90 L0,90 Z">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="M0,55 C260,30 480,75 720,50 C940,30 1080,70 1200,50 L1200,90 L0,90 Z;
+              M0,50 C240,75 500,30 720,58 C960,75 1100,35 1200,58 L1200,90 L0,90 Z;
+              M0,55 C260,30 480,75 720,50 C940,30 1080,70 1200,50 L1200,90 L0,90 Z"/>
+  </path>
+</svg>

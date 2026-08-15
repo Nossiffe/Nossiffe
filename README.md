@@ -1,11 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a4fd6,100:0f1b2d&height=180&section=header&text=Pierre-Eric%20Tessa&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Tech%20Lead%20·%20.NET%20%26%20Angular%20%26%20Azure%20·%20Gen%C3%A8ve&descSize=17&descAlignY=62" width="100%"/>
+<img src="assets/header.svg" width="100%" alt="Pierre-Eric Tessa — Tech Lead .NET · Angular · Azure · Genève"/>
 
 **Basé à Genève (Carouge) · En recherche active d'un CDI · Remote partiel**
 
 <p>
-  <a href="https://tessa-pierre-eric.fr"><img src="https://img.shields.io/badge/Portfolio-tessa--pierre--eric.fr-1a4fd6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://tessa-pierre-eric.fr"><img src="https://img.shields.io/badge/Portfolio-tessa--pierre--eric.fr-1a4fd6?style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/pierre-eric-tessa"><img src="https://img.shields.io/badge/LinkedIn-in%2Fpierre--eric--tessa-0A66C2?style=for-the-badge"/></a>
-  <a href="mailto:pierretessa@live.fr"><img src="https://img.shields.io/badge/Email-pierretessa%40live.fr-555?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
+  <a href="mailto:pierretessa@live.fr"><img src="https://img.shields.io/badge/Email-pierretessa%40live.fr-555555?style=for-the-badge"/></a>
 </p>
 
 > 🇬🇧 *Tech Lead / Software Architect (.NET · Angular · Azure) based in Geneva. I take over critical platforms that cost too much or migrate too slowly, and get them back on track — without breaking production.*
@@ -79,8 +79,8 @@ Faire grandir →   Recrutement · Mentoring · Standards · Roadmap technique
 ![MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=databricks&logoColor=white)
-![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)
+![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-0078D4?style=flat-square)
 &nbsp;·&nbsp; DDD · CQRS · Microservices · Service Bus
 
 **Frontend** ·
@@ -88,10 +88,10 @@ Faire grandir →   Recrutement · Mentoring · Standards · Roadmap technique
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
 ![Material](https://img.shields.io/badge/Angular_Material-757575?style=flat-square&logo=angular&logoColor=white)
-![PrimeNG](https://img.shields.io/badge/PrimeNG-DD0031?style=flat-square&logo=primeng&logoColor=white)
+![PrimeNG](https://img.shields.io/badge/PrimeNG-DD0031?style=flat-square)
 
 **Cloud & DevOps** ·
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -113,17 +113,6 @@ Faire grandir →   Recrutement · Mentoring · Standards · Roadmap technique
 
 ---
 
-## 📈 Activité
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Nossiffe&show_icons=true&count_private=true&hide_border=true&title_color=1a4fd6&icon_color=1a4fd6&text_color=555&bg_color=ffffff&locale=fr" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nossiffe&layout=compact&hide_border=true&title_color=1a4fd6&text_color=555&bg_color=ffffff&locale=fr" height="160"/>
-</p>
-
-<sub>L'essentiel de mon travail vit dans les dépôts privés de mes employeurs — ces chiffres ne montrent que la partie publique.</sub>
-
----
-
 ## 📬 Me contacter
 
 **Site** · [tessa-pierre-eric.fr](https://tessa-pierre-eric.fr)
@@ -131,6 +120,8 @@ Faire grandir →   Recrutement · Mentoring · Standards · Roadmap technique
 **Email** · [pierretessa@live.fr](mailto:pierretessa@live.fr)
 **Localisation** · Genève (Carouge) · Permis B · Suisse & France voisine
 
+<sub>L'essentiel de mon travail vit dans les dépôts privés de mes employeurs — le code public ne montre que la partie émergée.</sub>
+
 > *L'objectif, ce n'est pas juste de faire tourner la prod aujourd'hui — c'est de laisser une stack saine, compréhensible et vivable pour l'équipe de demain.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1b2d,100:1a4fd6&height=80&section=footer" width="100%"/>
+<img src="assets/footer.svg" width="100%" alt=""/>
