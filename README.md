@@ -10,7 +10,7 @@
 
 I take over .NET / Angular platforms that cost too much, migrate too slowly, or that nobody dares to touch anymore. I get them back on track (architecture, performance, team) without breaking production.
 
-Ten years on production systems, in the Geneva public sector, certification, insurance and banking.
+Ten years on production systems, in the Geneva public sector, certification and insurance.
 
 <sub>🇫🇷 Version française en bas de page.</sub>
 
@@ -142,7 +142,7 @@ Grow      → Hiring · Mentoring · Standards · Technical roadmap
 
 Je reprends des plateformes .NET / Angular qui coûtent trop cher, migrent trop lentement, ou que plus personne n'ose toucher. Je les remets d'aplomb (architecture, performance, équipe) sans tout casser en production.
 
-Dix ans sur des systèmes en production, dans le secteur public genevois, la certification, l'assurance et la banque.
+Dix ans sur des systèmes en production, dans le secteur public genevois, la certification et l'assurance.
 
 ### 🚀 Projet personnel : PipeImmo
 
