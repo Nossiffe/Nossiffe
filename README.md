@@ -1,4 +1,4 @@
-<img src="assets/header.svg" width="100%" alt="Pierre-Eric Tessa — Tech Lead .NET · Angular · Azure · Genève"/>
+<img src="assets/header.svg" width="100%" alt="Pierre-Eric Tessa, Tech Lead .NET · Angular · Azure · Genève"/>
 
 **Architect / Tech Lead · Geneva, Switzerland · Swiss B permit · Partial remote**
 
@@ -8,7 +8,7 @@
 <a href="mailto:pierretessa@live.fr"><img src="https://img.shields.io/badge/Email-pierretessa%40live.fr-555555?style=for-the-badge"/></a>
 </p>
 
-I take over .NET / Angular platforms that cost too much, migrate too slowly, or that nobody dares to touch anymore. I get them back on track — architecture, performance, team — without breaking production.
+I take over .NET / Angular platforms that cost too much, migrate too slowly, or that nobody dares to touch anymore. I get them back on track (architecture, performance, team) without breaking production.
 
 Ten years on production systems, in the Geneva public sector, certification, insurance and banking.
 
@@ -18,8 +18,8 @@ Ten years on production systems, in the Geneva public sector, certification, ins
 
 <table>
 <tr>
-<td align="center" width="25%"><h3>20 s → 200 ms</h3><sub>Page load after the rework — same data, same infra</sub></td>
-<td align="center" width="25%"><h3>−80 %</h3><sub>Azure bill, in 2 months — same business, same features</sub></td>
+<td align="center" width="25%"><h3>20 s → 200 ms</h3><sub>Page load after the rework, same data, same infra</sub></td>
+<td align="center" width="25%"><h3>-80 %</h3><sub>Azure bill, in 2 months, same business, same features</sub></td>
 <td align="center" width="25%"><h3>E → A</h3><sub>SonarQube rating on a critical platform, 97 % test coverage</sub></td>
 <td align="center" width="25%"><h3>0</h3><sub>Major production incident over the whole period</sub></td>
 </tr>
@@ -27,7 +27,7 @@ Ten years on production systems, in the Geneva public sector, certification, ins
 
 ---
 
-## 🚀 Side project — PipeImmo
+## 🚀 Side project: PipeImmo
 
 SaaS CRM for independent real estate agents, **designed, built and operated alone, from architecture to production**.
 
@@ -42,20 +42,20 @@ SaaS CRM for independent real estate agents, **designed, built and operated alon
 
 ## 💼 Recent experience
 
-**OCSIN · State of Geneva (2025 – present) — .NET Tech Lead**
+**OCSIN · State of Geneva (2025-present) · .NET Tech Lead**
 Full rewrite of a critical inventory management application in **.NET MAUI** (Clean Architecture, DDD / TDD / SOLID), **.NET 6 → 8** migration, **React** front end, .NET 9 audit.
 
-**SGS · Geneva (2024 – 2025) — Modernization of an international platform**
-**Angular 14 → 19**, **Electron 24 → 36** migration, .NET 8/9 preparation — on a critical application, with no service interruption.
+**SGS · Geneva (2024-2025) · Modernization of an international platform**
+**Angular 14 → 19**, **Electron 24 → 36** migration, .NET 8/9 preparation, on a critical application, with no service interruption.
 
-**ASSUREA · Paris (2022 – 2024) — Fast-growing insurance platform, 2,000+ brokers**
+**ASSUREA · Paris (2022-2024) · Fast-growing insurance platform, 2,000+ brokers**
 Joined as a team of 2 in the middle of the chaos, with a CTO change along the way. Left behind 2 autonomous teams. Angular 8 → 15, DDD / CQRS.
 
 | Before | After |
 |---|---|
-| Pages taking **20 seconds** to load | **200 ms** — same data, same infra |
+| Pages taking **20 seconds** to load | **200 ms**, same data, same infra |
 | **Sonar E** code quality (critical) | **Sonar A**, **97 %** test coverage |
-| Uncontrolled Azure bill | **−80 % in 2 months** — same business, same features |
+| Uncontrolled Azure bill | **-80 % in 2 months**, same business, same features |
 | Secrets in plain text in the code | Azure Key Vaults in place |
 | 2 people | 2 teams of 4 devs + 1 PO each |
 
@@ -110,13 +110,13 @@ Grow      → Hiring · Mentoring · Standards · Technical roadmap
 ## 💬 What people who worked with me say <sub>(original quotes, in French)</sub>
 
 > *"Passionné, grande culture IT, très bon niveau en C# et Angular. Ses qualités techniques et son engagement permettent une très bonne délivrabilité."*
-> — Antoine Jéhanno, Head of Software Engineering
+> Antoine Jéhanno, Head of Software Engineering
 
 > *"Couteau suisse, vitesse d'exécution, solutions élégantes. Vigilant sur la sécurité et les performances, capable d'accompagner les équipes en tant que Staff Engineer."*
-> — Nabil A., Ingénieur
+> Nabil A., Ingénieur
 
 > *"Passionné, sérieux, autonome. A réussi à réduire fortement la facture Cloud. Je le recommande pour un poste de Tech Lead."*
-> — Gilles Tourreau, Tech Lead Azure & .NET
+> Gilles Tourreau, Tech Lead Azure & .NET
 
 ---
 
@@ -127,9 +127,9 @@ Grow      → Hiring · Mentoring · Standards · Technical roadmap
 **Email** · [pierretessa@live.fr](mailto:pierretessa@live.fr)
 **Location** · Geneva · Swiss B permit · Switzerland & neighbouring France
 
-<sub>Most of my work lives in my employers' private repositories — public code only shows the tip of the iceberg.</sub>
+<sub>Most of my work lives in my employers' private repositories. Public code only shows the tip of the iceberg.</sub>
 
-> *The goal isn't just to keep production running today — it's to leave a healthy, understandable and livable stack for tomorrow's team.*
+> *The goal isn't just to keep production running today, it's to leave a healthy, understandable and livable stack for tomorrow's team.*
 
 ---
 
@@ -140,11 +140,11 @@ Grow      → Hiring · Mentoring · Standards · Technical roadmap
 
 **Architecte / Tech Lead · Genève · Permis B · Remote partiel**
 
-Je reprends des plateformes .NET / Angular qui coûtent trop cher, migrent trop lentement, ou que plus personne n'ose toucher. Je les remets d'aplomb — architecture, performance, équipe — sans tout casser en production.
+Je reprends des plateformes .NET / Angular qui coûtent trop cher, migrent trop lentement, ou que plus personne n'ose toucher. Je les remets d'aplomb (architecture, performance, équipe) sans tout casser en production.
 
 Dix ans sur des systèmes en production, dans le secteur public genevois, la certification, l'assurance et la banque.
 
-### 🚀 Projet personnel — PipeImmo
+### 🚀 Projet personnel : PipeImmo
 
 CRM SaaS pour agents immobiliers indépendants, **conçu, développé et exploité seul, de l'architecture à la prod** : .NET 10 (API REST + SignalR) · PostgreSQL · Angular 21 en PWA · Docker · OVHcloud (France) · conforme RGPD. Pipeline kanban, relances automatiques, notes vocales transcrites, home-staging IA, e-signature, données marché DVF, Stripe.
 
@@ -152,14 +152,14 @@ CRM SaaS pour agents immobiliers indépendants, **conçu, développé et exploit
 
 ### 💼 Expérience récente
 
-**OCSIN · État de Genève (2025 – présent) — Tech Lead .NET**
+**OCSIN · État de Genève (2025-présent) · Tech Lead .NET**
 Refonte complète d'une application critique de gestion d'inventaire en **.NET MAUI** (Clean Architecture, DDD / TDD / SOLID), migration **.NET 6 → 8**, front **React**, audit .NET 9.
 
-**SGS · Genève (2024 – 2025) — Modernisation d'une plateforme internationale**
-Migration **Angular 14 → 19**, **Electron 24 → 36**, préparation .NET 8/9 — sur une application critique, sans interruption de service.
+**SGS · Genève (2024-2025) · Modernisation d'une plateforme internationale**
+Migration **Angular 14 → 19**, **Electron 24 → 36**, préparation .NET 8/9, sur une application critique, sans interruption de service.
 
-**ASSUREA · Paris (2022 – 2024) — Plateforme assurance en forte croissance, 2 000+ courtiers**
-Arrivé à 2 dans le chaos, changement de CTO en cours de route. Reparti avec 2 équipes autonomes. Pages de 20 s à 200 ms, Sonar E → A et 97 % de couverture de tests, facture Azure −80 % en 2 mois, Key Vaults Azure en place, de 2 personnes à 2 équipes de 4 devs + 1 PO. Zéro incident majeur en production.
+**ASSUREA · Paris (2022-2024) · Plateforme assurance en forte croissance, 2 000+ courtiers**
+Arrivé à 2 dans le chaos, changement de CTO en cours de route. Reparti avec 2 équipes autonomes. Pages de 20 s à 200 ms, Sonar E → A et 97 % de couverture de tests, facture Azure -80 % en 2 mois, Key Vaults Azure en place, de 2 personnes à 2 équipes de 4 devs + 1 PO. Zéro incident majeur en production.
 
 **Avant** · Kinougarde, Lyon (Angular 4 → 14, PrimeNG) · Orange, Lyon (Angular 4 → 5.2) · Louis Dreyfus Company via Avanade (.NET, Entity Framework)
 
@@ -176,9 +176,9 @@ Faire grandir → Recrutement · Mentoring · Standards · Roadmap technique
 **Site** · [tessa-pierre-eric.fr](https://tessa-pierre-eric.fr) · **LinkedIn** · [in/pierre-eric-tessa](https://www.linkedin.com/in/pierre-eric-tessa) · **Email** · [pierretessa@live.fr](mailto:pierretessa@live.fr)
 **Localisation** · Genève · Permis B · Suisse & France voisine
 
-<sub>L'essentiel de mon travail vit dans les dépôts privés de mes employeurs — le code public ne montre que la partie émergée.</sub>
+<sub>L'essentiel de mon travail vit dans les dépôts privés de mes employeurs. Le code public ne montre que la partie émergée.</sub>
 
-> *L'objectif, ce n'est pas juste de faire tourner la prod aujourd'hui — c'est de laisser une stack saine, compréhensible et vivable pour l'équipe de demain.*
+> *L'objectif, ce n'est pas juste de faire tourner la prod aujourd'hui, c'est de laisser une stack saine, compréhensible et vivable pour l'équipe de demain.*
 
 </details>
 
