@@ -10,7 +10,7 @@
 
 I take over .NET / Angular platforms that cost too much, migrate too slowly, or that nobody dares to touch anymore. I get them back on track (architecture, performance, team) without breaking production.
 
-Ten years on production systems, in the Geneva public sector, certification and insurance.
+Nearly ten years on production systems, in the Geneva public sector, certification, insurance and commodity trading.
 
 <sub>🇫🇷 Version française en bas de page.</sub>
 
@@ -32,7 +32,7 @@ Ten years on production systems, in the Geneva public sector, certification and 
 SaaS CRM for independent real estate agents, **designed, built and operated alone, from architecture to production**.
 
 - **Back end** · .NET 10 (REST API + real-time SignalR) · PostgreSQL
-- **Front end** · Angular 21 installable PWA (offline, native push)
+- **Front end** · Angular 22 installable PWA (offline, native push)
 - **Infra** · Docker · OVHcloud (France) · GDPR compliant
 - **Features** · kanban pipeline, automated follow-ups, transcribed voice notes, AI home staging, e-signature, DVF market data, Stripe
 
@@ -42,13 +42,13 @@ SaaS CRM for independent real estate agents, **designed, built and operated alon
 
 ## 💼 Recent experience
 
-**OCSIN · State of Geneva (2025-present) · .NET Tech Lead**
+**OCSIN · State of Geneva, via Hortis (Sept. 2025-present) · .NET / React Tech Lead**
 Full rewrite of a critical inventory management application in **.NET MAUI** (Clean Architecture, DDD / TDD / SOLID), **.NET 6 → 8** migration, **React** front end, .NET 9 audit.
 
-**SGS · Geneva (2024-2025) · Modernization of an international platform**
+**SGS · Geneva, via SQLI (Dec. 2024-Sept. 2025) · Modernization of an international platform**
 **Angular 14 → 19**, **Electron 24 → 36** migration, .NET 8/9 preparation, on a critical application, with no service interruption.
 
-**ASSUREA · Paris (2022-2024) · Fast-growing insurance platform, 2,000+ brokers**
+**ASSUREA · Paris (June 2022-Dec. 2024) · Fast-growing insurance platform, 2,000+ brokers**
 Joined as a team of 2 in the middle of the chaos, with a CTO change along the way. Left behind 2 autonomous teams. Angular 8 → 15, DDD / CQRS.
 
 | Before | After |
@@ -61,7 +61,7 @@ Joined as a team of 2 in the middle of the chaos, with a CTO change along the wa
 
 Zero major production incident over the whole period.
 
-**Earlier** · Kinougarde, Lyon (Angular 4 → 14, PrimeNG) · Orange, Lyon (Angular 4 → 5.2) · Louis Dreyfus Company via Avanade (.NET, Entity Framework)
+**Earlier** · Kinougarde & Complétude, Lyon (Angular 4 → 14, PrimeNG) · Orange, Lyon (Angular 4 → 5.2) · Louis Dreyfus Company via Avanade (.NET, Entity Framework)
 
 ---
 
@@ -69,7 +69,7 @@ Zero major production incident over the whole period.
 
 ```
 Stabilize → Perf, debt and cost review · Reliable CI/CD · Observability
-Modernize → .NET Framework → 10 · Angular 8 → 21 · DDD / CQRS
+Modernize → .NET Framework → 10 · Angular 8 → 22 · DDD / CQRS
 Grow      → Hiring · Mentoring · Standards · Technical roadmap
 ```
 
@@ -89,7 +89,7 @@ Grow      → Hiring · Mentoring · Standards · Technical roadmap
 &nbsp;·&nbsp; DDD · CQRS · Microservices · Service Bus
 
 **Frontend** ·
-![Angular](https://img.shields.io/badge/Angular_4_→_21-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular_4_→_22-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
 ![Material](https://img.shields.io/badge/Angular_Material-757575?style=flat-square&logo=angular&logoColor=white)
@@ -142,32 +142,32 @@ Grow      → Hiring · Mentoring · Standards · Technical roadmap
 
 Je reprends des plateformes .NET / Angular qui coûtent trop cher, migrent trop lentement, ou que plus personne n'ose toucher. Je les remets d'aplomb (architecture, performance, équipe) sans tout casser en production.
 
-Dix ans sur des systèmes en production, dans le secteur public genevois, la certification et l'assurance.
+Près de dix ans sur des systèmes en production, dans le secteur public genevois, la certification, l'assurance et le négoce.
 
 ### 🚀 Projet personnel : PipeImmo
 
-CRM SaaS pour agents immobiliers indépendants, **conçu, développé et exploité seul, de l'architecture à la prod** : .NET 10 (API REST + SignalR) · PostgreSQL · Angular 21 en PWA · Docker · OVHcloud (France) · conforme RGPD. Pipeline kanban, relances automatiques, notes vocales transcrites, home-staging IA, e-signature, données marché DVF, Stripe.
+CRM SaaS pour agents immobiliers indépendants, **conçu, développé et exploité seul, de l'architecture à la prod** : .NET 10 (API REST + SignalR) · PostgreSQL · Angular 22 en PWA · Docker · OVHcloud (France) · conforme RGPD. Pipeline kanban, relances automatiques, notes vocales transcrites, home-staging IA, e-signature, données marché DVF, Stripe.
 
 🔗 **[Étude de cas complète](https://tessa-pierre-eric.fr/pipeimmo.html)**
 
 ### 💼 Expérience récente
 
-**OCSIN · État de Genève (2025-présent) · Tech Lead .NET**
+**OCSIN · État de Genève, via Hortis (sept. 2025-présent) · Tech Lead .NET / React**
 Refonte complète d'une application critique de gestion d'inventaire en **.NET MAUI** (Clean Architecture, DDD / TDD / SOLID), migration **.NET 6 → 8**, front **React**, audit .NET 9.
 
-**SGS · Genève (2024-2025) · Modernisation d'une plateforme internationale**
+**SGS · Genève, via SQLI (déc. 2024-sept. 2025) · Modernisation d'une plateforme internationale**
 Migration **Angular 14 → 19**, **Electron 24 → 36**, préparation .NET 8/9, sur une application critique, sans interruption de service.
 
-**ASSUREA · Paris (2022-2024) · Plateforme assurance en forte croissance, 2 000+ courtiers**
+**ASSUREA · Paris (juin 2022-déc. 2024) · Plateforme assurance en forte croissance, 2 000+ courtiers**
 Arrivé à 2 dans le chaos, changement de CTO en cours de route. Reparti avec 2 équipes autonomes. Pages de 20 s à 200 ms, Sonar E → A et 97 % de couverture de tests, facture Azure -80 % en 2 mois, Key Vaults Azure en place, de 2 personnes à 2 équipes de 4 devs + 1 PO. Zéro incident majeur en production.
 
-**Avant** · Kinougarde, Lyon (Angular 4 → 14, PrimeNG) · Orange, Lyon (Angular 4 → 5.2) · Louis Dreyfus Company via Avanade (.NET, Entity Framework)
+**Avant** · Kinougarde & Complétude, Lyon (Angular 4 → 14, PrimeNG) · Orange, Lyon (Angular 4 → 5.2) · Louis Dreyfus Company via Avanade (.NET, Entity Framework)
 
 ### 🧭 Ce que je fais
 
 ```
 Stabiliser    → Revue perf, dette, coûts · CI/CD fiable · Observabilité
-Moderniser    → .NET Framework → 10 · Angular 8 → 21 · DDD / CQRS
+Moderniser    → .NET Framework → 10 · Angular 8 → 22 · DDD / CQRS
 Faire grandir → Recrutement · Mentoring · Standards · Roadmap technique
 ```
 
