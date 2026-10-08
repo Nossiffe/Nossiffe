@@ -1,11 +1,11 @@
-<img src="assets/header.svg" width="100%" alt="Pierre-Eric Tessa, Tech Lead .NET · Angular · Azure · Genève"/>
+<img src="assets/header.png" width="100%" alt="Pierre-Eric Tessa, Tech Lead .NET · Senior Software Engineer · Geneva"/>
 
-**Architect / Tech Lead · Geneva, Switzerland · Swiss B permit · Partial remote**
+**Tech Lead .NET · Geneva, Switzerland · Swiss B permit · Partial remote**
 
 <p>
-<a href="https://tessa-pierre-eric.fr"><img src="https://img.shields.io/badge/Portfolio-tessa--pierre--eric.fr-1a4fd6?style=for-the-badge"/></a>
-<a href="https://www.linkedin.com/in/pierre-eric-tessa"><img src="https://img.shields.io/badge/LinkedIn-in%2Fpierre--eric--tessa-0A66C2?style=for-the-badge"/></a>
-<a href="mailto:pierretessa@live.fr"><img src="https://img.shields.io/badge/Email-pierretessa%40live.fr-555555?style=for-the-badge"/></a>
+<a href="https://tessa-pierre-eric.fr"><img src="https://img.shields.io/badge/Portfolio-tessa--pierre--eric.fr-3987E5?style=for-the-badge&labelColor=05070D"/></a>
+<a href="https://www.linkedin.com/in/pierre-eric-tessa"><img src="https://img.shields.io/badge/LinkedIn-in%2Fpierre--eric--tessa-1C4FB5?style=for-the-badge&labelColor=05070D"/></a>
+<a href="mailto:pierretessa@live.fr"><img src="https://img.shields.io/badge/Email-pierretessa%40live.fr-26324A?style=for-the-badge&labelColor=05070D"/></a>
 </p>
 
 I take over .NET / Angular platforms that cost too much, migrate too slowly, or that nobody dares to touch anymore. I get them back on track (architecture, performance, team) without breaking production.
@@ -43,10 +43,10 @@ SaaS CRM for independent real estate agents, **designed, built and operated alon
 ## 💼 Recent experience
 
 **OCSIN · State of Geneva, via Hortis (Sept. 2025-present) · .NET / React Tech Lead**
-Full rewrite of a critical inventory management application in **.NET MAUI** (Clean Architecture, DDD / TDD / SOLID), **.NET 6 → 8** migration, **React** front end, .NET 9 audit.
+Full rewrite of a critical inventory management application in **.NET MAUI** (Clean Architecture, DDD / TDD / SOLID), **.NET 6 → 8** migration, **React** front end.
 
 **SGS · Geneva, via SQLI (Dec. 2024-Sept. 2025) · Modernization of an international platform**
-**Angular 14 → 19**, **Electron 24 → 36** migration, .NET 8/9 preparation, on a critical application, with no service interruption.
+**Angular 14 → 19**, **Electron 24 → 36** migration, move to SDK-style .NET projects and .NET 9 feasibility audit, on a critical application, with no service interruption.
 
 **ASSUREA · Paris (June 2022-Dec. 2024) · Fast-growing insurance platform, 2,000+ brokers**
 Joined as a team of 2 in the middle of the chaos, with a CTO change along the way. Left behind 2 autonomous teams. Angular 8 → 15, DDD / CQRS.
@@ -138,7 +138,7 @@ Grow      → Hiring · Mentoring · Standards · Technical roadmap
 
 <br/>
 
-**Architecte / Tech Lead · Genève · Permis B · Remote partiel**
+**Tech Lead .NET · Genève · Permis B · Remote partiel**
 
 Je reprends des plateformes .NET / Angular qui coûtent trop cher, migrent trop lentement, ou que plus personne n'ose toucher. Je les remets d'aplomb (architecture, performance, équipe) sans tout casser en production.
 
@@ -153,10 +153,10 @@ CRM SaaS pour agents immobiliers indépendants, **conçu, développé et exploit
 ### 💼 Expérience récente
 
 **OCSIN · État de Genève, via Hortis (sept. 2025-présent) · Tech Lead .NET / React**
-Refonte complète d'une application critique de gestion d'inventaire en **.NET MAUI** (Clean Architecture, DDD / TDD / SOLID), migration **.NET 6 → 8**, front **React**, audit .NET 9.
+Refonte complète d'une application critique de gestion d'inventaire en **.NET MAUI** (Clean Architecture, DDD / TDD / SOLID), migration **.NET 6 → 8**, front **React**.
 
 **SGS · Genève, via SQLI (déc. 2024-sept. 2025) · Modernisation d'une plateforme internationale**
-Migration **Angular 14 → 19**, **Electron 24 → 36**, préparation .NET 8/9, sur une application critique, sans interruption de service.
+Migration **Angular 14 → 19**, **Electron 24 → 36**, passage des projets .NET au format SDK-style et audit de faisabilité .NET 9, sur une application critique, sans interruption de service.
 
 **ASSUREA · Paris (juin 2022-déc. 2024) · Plateforme assurance en forte croissance, 2 000+ courtiers**
 Arrivé à 2 dans le chaos, changement de CTO en cours de route. Reparti avec 2 équipes autonomes. Pages de 20 s à 200 ms, Sonar E → A et 97 % de couverture de tests, facture Azure -80 % en 2 mois, Key Vaults Azure en place, de 2 personnes à 2 équipes de 4 devs + 1 PO. Zéro incident majeur en production.
@@ -182,4 +182,4 @@ Faire grandir → Recrutement · Mentoring · Standards · Roadmap technique
 
 </details>
 
-<img src="assets/footer.svg" width="100%" alt=""/>
+<img src="assets/footer.png" width="100%" alt=""/>
