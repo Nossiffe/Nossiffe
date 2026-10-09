@@ -20,7 +20,7 @@ Nearly ten years on production systems, in the Geneva public sector, certificati
 <tr>
 <td align="center" width="25%"><h3>20 s → 200 ms</h3><sub>Page load after the rework, same data, same infra</sub></td>
 <td align="center" width="25%"><h3>-80 %</h3><sub>Azure bill, in 2 months, same business, same features</sub></td>
-<td align="center" width="25%"><h3>E → A</h3><sub>SonarQube rating on a critical platform, 97 % test coverage</sub></td>
+<td align="center" width="25%"><h3>E → A</h3><sub>SonarQube rating on a critical platform</sub></td>
 <td align="center" width="25%"><h3>0</h3><sub>Major production incident over the whole period</sub></td>
 </tr>
 </table>
@@ -43,7 +43,7 @@ SaaS CRM for independent real estate agents, **designed, built and operated alon
 ## 💼 Recent experience
 
 **OCSIN · State of Geneva, via Hortis (Sept. 2025-present) · .NET / React Tech Lead**
-Full rewrite of a critical inventory management application in **.NET MAUI** (Clean Architecture, DDD / TDD / SOLID), **.NET 6 → 8** migration, **React** front end.
+Full rewrite of a critical inventory management application in **.NET MAUI** (Clean Architecture, DDD / TDD / SOLID), **.NET 6 → 8** migration, **React** front end, **97 %** test coverage.
 
 **SGS · Geneva, via SQLI (Dec. 2024-Sept. 2025) · Modernization of an international platform**
 **Angular 14 → 19**, **Electron 24 → 36** migration, move to SDK-style .NET projects and .NET 9 feasibility audit, on a critical application, with no service interruption.
@@ -54,7 +54,7 @@ Joined as a team of 2 in the middle of the chaos, with a CTO change along the wa
 | Before | After |
 |---|---|
 | Pages taking **20 seconds** to load | **200 ms**, same data, same infra |
-| **Sonar E** code quality (critical) | **Sonar A**, **97 %** test coverage |
+| **Sonar E** code quality (critical) | **Sonar A** |
 | Uncontrolled Azure bill | **-80 % in 2 months**, same business, same features |
 | Secrets in plain text in the code | Azure Key Vaults in place |
 | 2 people | 2 teams of 4 devs + 1 PO each |
@@ -161,13 +161,13 @@ CRM SaaS pour agents immobiliers indépendants, **conçu, développé et exploit
 ### 💼 Expérience récente
 
 **OCSIN · État de Genève, via Hortis (sept. 2025-présent) · Tech Lead .NET / React**
-Refonte complète d'une application critique de gestion d'inventaire en **.NET MAUI** (Clean Architecture, DDD / TDD / SOLID), migration **.NET 6 → 8**, front **React**.
+Refonte complète d'une application critique de gestion d'inventaire en **.NET MAUI** (Clean Architecture, DDD / TDD / SOLID), migration **.NET 6 → 8**, front **React**, **97 %** de couverture de tests.
 
 **SGS · Genève, via SQLI (déc. 2024-sept. 2025) · Modernisation d'une plateforme internationale**
 Migration **Angular 14 → 19**, **Electron 24 → 36**, passage des projets .NET au format SDK-style et audit de faisabilité .NET 9, sur une application critique, sans interruption de service.
 
 **ASSUREA · Paris (juin 2022-déc. 2024) · Plateforme assurance en forte croissance, 2 000+ courtiers**
-Arrivé à 2 dans le chaos, changement de CTO en cours de route. Reparti avec 2 équipes autonomes. Pages de 20 s à 200 ms, Sonar E → A et 97 % de couverture de tests, facture Azure -80 % en 2 mois, Key Vaults Azure en place, de 2 personnes à 2 équipes de 4 devs + 1 PO. Zéro incident majeur en production.
+Arrivé à 2 dans le chaos, changement de CTO en cours de route. Reparti avec 2 équipes autonomes. Pages de 20 s à 200 ms, Sonar E → A, facture Azure -80 % en 2 mois, Key Vaults Azure en place, de 2 personnes à 2 équipes de 4 devs + 1 PO. Zéro incident majeur en production.
 
 **Avant** · Kinougarde & Complétude, Lyon (Angular 4 → 14, PrimeNG) · Orange, Lyon (Angular 4 → 5.2) · Louis Dreyfus Company via Avanade (.NET, Entity Framework)
 
