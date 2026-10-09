@@ -36,7 +36,7 @@ SaaS CRM for independent real estate agents, **designed, built and operated alon
 - **Infra** · Docker · OVHcloud (France) · GDPR compliant
 - **Features** · kanban pipeline, automated follow-ups, transcribed voice notes, AI home staging, e-signature, DVF market data, Stripe
 
-🔗 **[Full case study](https://tessa-pierre-eric.fr/pipeimmo.html)**
+🔗 **[Full case study](https://tessa-pierre-eric.fr/pipeimmo.html)** · 🔒 Private source code, read-only access available on request for interviews
 
 ---
 
@@ -72,6 +72,14 @@ Stabilize → Perf, debt and cost review · Reliable CI/CD · Observability
 Modernize → .NET Framework → 10 · Angular 8 → 22 · DDD / CQRS
 Grow      → Hiring · Mentoring · Standards · Technical roadmap
 ```
+
+---
+
+## 🌍 Open source
+
+Contributor to **[AzerothCore](https://github.com/azerothcore/azerothcore-wotlk)**, an open-source MMO server emulator in C++ / SQL: **11 merged pull requests** (database and scripting fixes, reviewed by the core maintainers), more under review, including C++ fixes, one of them with unit tests. Also contributing to **[cMaNGOS](https://github.com/cmangos)**.
+
+🔗 **[Merged pull requests](https://github.com/azerothcore/azerothcore-wotlk/pulls?q=is%3Apr+author%3ANossiffe+is%3Amerged)** · **[Pull requests in review](https://github.com/azerothcore/azerothcore-wotlk/pulls?q=is%3Apr+author%3ANossiffe+is%3Aopen)**
 
 ---
 
@@ -148,7 +156,7 @@ Près de dix ans sur des systèmes en production, dans le secteur public genevoi
 
 CRM SaaS pour agents immobiliers indépendants, **conçu, développé et exploité seul, de l'architecture à la prod** : .NET 10 (API REST + SignalR) · PostgreSQL · Angular 22 en PWA · Docker · OVHcloud (France) · conforme RGPD. Pipeline kanban, relances automatiques, notes vocales transcrites, home-staging IA, e-signature, données marché DVF, Stripe.
 
-🔗 **[Étude de cas complète](https://tessa-pierre-eric.fr/pipeimmo.html)**
+🔗 **[Étude de cas complète](https://tessa-pierre-eric.fr/pipeimmo.html)** · 🔒 Code source privé, accès en lecture possible sur demande pour un entretien
 
 ### 💼 Expérience récente
 
@@ -170,6 +178,12 @@ Stabiliser    → Revue perf, dette, coûts · CI/CD fiable · Observabilité
 Moderniser    → .NET Framework → 10 · Angular 8 → 22 · DDD / CQRS
 Faire grandir → Recrutement · Mentoring · Standards · Roadmap technique
 ```
+
+### 🌍 Open source
+
+Contributeur à **[AzerothCore](https://github.com/azerothcore/azerothcore-wotlk)**, émulateur de serveur MMO open source en C++ / SQL : **11 pull requests fusionnées** (corrections de base de données et de scripts, relues par les mainteneurs), d'autres en revue, notamment des correctifs C++, dont un avec des tests unitaires. Je contribue aussi à **[cMaNGOS](https://github.com/cmangos)**.
+
+🔗 **[PR fusionnées](https://github.com/azerothcore/azerothcore-wotlk/pulls?q=is%3Apr+author%3ANossiffe+is%3Amerged)** · **[PR en revue](https://github.com/azerothcore/azerothcore-wotlk/pulls?q=is%3Apr+author%3ANossiffe+is%3Aopen)**
 
 ### 📬 Me contacter
 
