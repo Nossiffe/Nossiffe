@@ -87,7 +87,9 @@ Grow      → Hiring · Mentoring · Standards · Technical roadmap
 
 ## 🌍 Open source
 
-Contributor to **[AzerothCore](https://github.com/azerothcore/azerothcore-wotlk)**, an open-source MMO server emulator in C++ / SQL: **11 merged pull requests** (database and scripting fixes, reviewed by the core maintainers), more under review, including C++ fixes, one of them with unit tests. Also contributing to **[cMaNGOS](https://github.com/cmangos)**.
+Contributor to **[AzerothCore](https://github.com/azerothcore/azerothcore-wotlk)**, an open-source MMO server emulator in C++ / SQL: database and C++ scripting fixes reviewed and merged by the core maintainers, and [a C++ core fix with unit tests](https://github.com/azerothcore/azerothcore-wotlk/pull/27953). Also contributing to **[cMaNGOS](https://github.com/cmangos)** ([pull requests](https://github.com/search?q=org%3Acmangos+author%3ANossiffe&type=pullrequests)).
+
+[![Merged pull requests in AzerothCore](https://img.shields.io/github/issues-search/azerothcore/azerothcore-wotlk?query=is%3Apr%20is%3Amerged%20author%3ANossiffe&style=flat-square&labelColor=05070D&color=3987E5&label=AzerothCore%20merged%20PRs)](https://github.com/azerothcore/azerothcore-wotlk/pulls?q=is%3Apr+author%3ANossiffe+is%3Amerged)
 
 🔗 **[Merged pull requests](https://github.com/azerothcore/azerothcore-wotlk/pulls?q=is%3Apr+author%3ANossiffe+is%3Amerged)** · **[Pull requests in review](https://github.com/azerothcore/azerothcore-wotlk/pulls?q=is%3Apr+author%3ANossiffe+is%3Aopen)**
 
@@ -199,7 +201,9 @@ Faire grandir → Recrutement · Mentoring · Standards · Roadmap technique
 
 ### 🌍 Open source
 
-Contributeur à **[AzerothCore](https://github.com/azerothcore/azerothcore-wotlk)**, émulateur de serveur MMO open source en C++ / SQL : **11 pull requests fusionnées** (corrections de base de données et de scripts, relues par les mainteneurs), d'autres en revue, notamment des correctifs C++, dont un avec des tests unitaires. Je contribue aussi à **[cMaNGOS](https://github.com/cmangos)**.
+Contributeur à **[AzerothCore](https://github.com/azerothcore/azerothcore-wotlk)**, émulateur de serveur MMO open source en C++ / SQL : corrections de base de données et de scripts C++ relues et fusionnées par les mainteneurs, et [un correctif C++ du cœur avec des tests unitaires](https://github.com/azerothcore/azerothcore-wotlk/pull/27953). Je contribue aussi à **[cMaNGOS](https://github.com/cmangos)** ([pull requests](https://github.com/search?q=org%3Acmangos+author%3ANossiffe&type=pullrequests)).
+
+[![Pull requests fusionnées dans AzerothCore](https://img.shields.io/github/issues-search/azerothcore/azerothcore-wotlk?query=is%3Apr%20is%3Amerged%20author%3ANossiffe&style=flat-square&labelColor=05070D&color=3987E5&label=AzerothCore%20PR%20fusionn%C3%A9es)](https://github.com/azerothcore/azerothcore-wotlk/pulls?q=is%3Apr+author%3ANossiffe+is%3Amerged)
 
 🔗 **[PR fusionnées](https://github.com/azerothcore/azerothcore-wotlk/pulls?q=is%3Apr+author%3ANossiffe+is%3Amerged)** · **[PR en revue](https://github.com/azerothcore/azerothcore-wotlk/pulls?q=is%3Apr+author%3ANossiffe+is%3Aopen)**
 
