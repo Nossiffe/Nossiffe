@@ -40,6 +40,16 @@ SaaS CRM for independent real estate agents, **designed, built and operated alon
 
 ---
 
+## 🔎 Code to explore
+
+**[dotnet-angular-saas-starter](https://github.com/Nossiffe/dotnet-angular-saas-starter)** · Multi-tenant SaaS starter in .NET 10, Angular 22 and PostgreSQL 17: Clean Architecture, DDD and CQRS, a transactional outbox, secure defaults.
+
+Every change has to pass blocking CI gates, including analyzers, architecture tests, mutation testing of the Domain, a dependency audit, secret scanning and workflow linting, plus a CodeQL analysis.
+
+🤖 *[Built with an AI coding agent under strict guardrails](https://github.com/Nossiffe/dotnet-angular-saas-starter#built-with-an-ai-coding-agent-under-strict-guardrails)*
+
+---
+
 ## 💼 Recent experience
 
 **OCSIN · State of Geneva, via Hortis (Sept. 2025-present) · .NET / React Tech Lead**
@@ -157,6 +167,14 @@ Près de dix ans sur des systèmes en production, dans le secteur public genevoi
 CRM SaaS pour agents immobiliers indépendants, **conçu, développé et exploité seul, de l'architecture à la prod** : .NET 10 (API REST + SignalR) · PostgreSQL · Angular 22 en PWA · Docker · OVHcloud (France) · conforme RGPD. Pipeline kanban, relances automatiques, notes vocales transcrites, home-staging IA, e-signature, données marché DVF, Stripe.
 
 🔗 **[Étude de cas complète](https://tessa-pierre-eric.fr/pipeimmo.html)** · 🔒 Code source privé, accès en lecture possible sur demande pour un entretien
+
+### 🔎 Code à explorer
+
+**[dotnet-angular-saas-starter](https://github.com/Nossiffe/dotnet-angular-saas-starter)** · Starter SaaS multi-tenant en .NET 10, Angular 22 et PostgreSQL 17 : Clean Architecture, DDD et CQRS, outbox transactionnelle, sécurité par défaut.
+
+Chaque changement doit passer des contrôles CI bloquants, dont les analyseurs, les tests d'architecture, le mutation testing du Domain, l'audit des dépendances, la détection de secrets et le lint des workflows, en plus d'une analyse CodeQL.
+
+🤖 *[Développé avec un agent de code IA, sous des garde-fous stricts](https://github.com/Nossiffe/dotnet-angular-saas-starter#built-with-an-ai-coding-agent-under-strict-guardrails)*
 
 ### 💼 Expérience récente
 
